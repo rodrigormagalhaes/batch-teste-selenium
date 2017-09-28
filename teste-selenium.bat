@@ -1,1 +1,1 @@
-java -jar teste-selenium.jar
+java -jar teste-selenium.jar config.txt
